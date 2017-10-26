@@ -24,7 +24,7 @@
 			"ID":["452869","541728"]
 		},
 	"postShares":null,
-	"buttonLike":["URL","Like"],
+	"buttonLike":["https://developers.facebook.com/docs/plugins/","Like"],
 	"buttonComment":["URL","Comment"],
 	"buttonShare":["URL","Share"]
 }]
