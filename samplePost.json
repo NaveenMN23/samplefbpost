@@ -1,0 +1,30 @@
+[{
+	"profilePicture":"URL",
+	"postedBy":"GoogleCloud",
+	"post":
+		{
+			"linkIcon":"URL",
+			"topicTitle":"Google Cloud Platform - Try free with a $300 credit",
+			"sharedImage":"URL",
+			"sharedImageTopiic":"Google Cloud Platform",
+			"sharedImageSubTopic":"Start your first VM free with Google Computer Engine",
+			"destinationURL":"CLOUD.GOOGLE.COM",
+			"sharedButton":"SignUp"
+		},
+	"postLikes":
+		{
+			"Likes":3000,
+			"Name":["Naveen","Badu"],
+			"ID":["452869","541728"]
+		},
+	"postComments":
+		{
+			"Comments":3000,
+			"Name":["Naveen","Badu"],
+			"ID":["452869","541728"]
+		},
+	"postShares":null,
+	"buttonLike":["URL","Like"],
+	"buttonComment":["URL","Comment"],
+	"buttonShare":["URL","Share"]
+}]
